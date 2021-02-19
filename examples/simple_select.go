@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	csvdriver "csv-driver"
+	"github.com/ahmczsy/csv-driver"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 
-	csvdriver "csv-driver"
+	"github.com/ahmczsy/csv-driver"
 )
 
 func main() {

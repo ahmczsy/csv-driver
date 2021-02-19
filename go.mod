@@ -1,4 +1,4 @@
-module csv-driver
+module github.com/ahmczsy/csv-driver
 
 go 1.14
 
